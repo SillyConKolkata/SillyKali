@@ -17,3 +17,6 @@ PS: Having trouble to upload the BIG image file to github. Here is the download 
 
 
 https://mega.nz/#!OIhFgAhD!GvXlEgTDANSpmCuubs6hjs0dNpJQxHFyV2xjUps0okM
+
+Support Channel:
+https://t.me/sillycon
