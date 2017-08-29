@@ -1,5 +1,5 @@
 # SillyKali
-Kali 2017.1 SDCARD IMG for CubieBoard2 based on Ambian , Debian, Kali 2017.1 and Linux-SunXI 
+Kali 2017.1 SDCARD IMG for CubieBoard2 based on Armbian , Debian Jessie, Kali 2017.1 and Linux-SunXI 
 
 Default Login Details
 
